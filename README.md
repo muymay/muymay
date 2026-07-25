@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Melissa Laiz 👋</h1>
-<h3 align="center">Software Developer · M.S. Artificial Intelligence @ Illinois Institute of Technology</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1e2327&height=180&section=header&text=Melissa%20Laiz&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%2FML%20%C2%B7%20QA%20Automation&descAlignY=58&descSize=18" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/muymay">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Loka+%E2%80%94+real-time+safety+alerts;Building+LockBook+%E2%80%94+analytics+for+cafes;M.S.+AI+%40+Illinois+Tech%2C+Dec+2026;QA+Automation+%2B+Full-Stack+%2B+Data" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mumayyy/"><img src="https://img.shields.io/badge/LinkedIn-mumayyy-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -61,13 +68,28 @@ Extracted and analyzed production data using SAP; built Power BI dashboards and 
 | [**JobExtractX**](https://github.com/muymay/JobExtractX) | Transformer-based job data extraction, evaluated FLAN-T5 and Mistral-7B on 11K+ labeled postings; quantized training cut GPU memory by 75%. | Python, FLAN-T5, Mistral-7B, DeepSeek API |
 | [**ChiSky-Flight-Tracker-Frontend**](https://github.com/LucasFerguson/ChiSky-Flight-Tracker-Frontend) | Real-time flight tracking app built with a 4-person team using the FlightAware AeroAPI and PostgreSQL, with an interactive React/Next.js front end. | React, Next.js, PostgreSQL, SQL |
 | [**Nested_Learning_Experiment**](https://github.com/muymay/Nested_Learning_Experiment) | Experiment notebook exploring nested learning approaches. | Jupyter Notebook |
-| [**Topology-Influence-on-Gossip-Learning-Convergence**](https://github.com/muymay/Topology-Influence-on-Gossip-Learning-Convergence) | Research on how Barabási–Albert, Erdős–Rényi, and Watts-Strogatz network topologies influence gossip learning convergence. | Jupyter Notebook |
+| [**Topology-Influence-on-Gossip-Learning-Convergence**](https://github.com/muymay/Topology-Influence-on-Gossip-Learning-Convergence) | Research on how Barabási–Albert (BA), Erdős–Rényi (ER), and Watts-Strogatz (WS) network topologies influence gossip learning convergence. | Jupyter Notebook |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muymay&show_icons=true&theme=default&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muymay&layout=compact&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=muymay&hide_border=true" height="165" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muymay&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muymay&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muymay&hide_border=true" height="165" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muymay/muymay/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+> Note: the snake graphic needs a one-time setup, a small GitHub Action that regenerates it daily. See `snake.yml` below.
 
 ---
 
