@@ -89,8 +89,6 @@ Extracted and analyzed production data using SAP; built Power BI dashboards and 
   <img src="https://raw.githubusercontent.com/muymay/muymay/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
-> Note: the snake graphic needs a one-time setup, a small GitHub Action that regenerates it daily. See `snake.yml` below.
-
 ---
 
 ### 🏅 Achievements
