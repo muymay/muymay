@@ -67,14 +67,7 @@ Extracted and analyzed production data using SAP; built Power BI dashboards and 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muymay&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muymay&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muymay&hide_border=true" height="165" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muymay&show_icons=true&theme=default&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muymay&layout=compact&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=muymay&hide_border=true" height="165" /> </p>
 
 ---
 
