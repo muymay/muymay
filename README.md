@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/muymay">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Loka+%E2%80%94+real-time+safety+alerts;Building+LockBook+%E2%80%94+analytics+for+cafes;M.S.+AI+%40+Illinois+Tech%2C+Dec+2026;QA+Automation+%2B+Full-Stack+%2B+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Loka+%E2%80%94+real-time+safety+alerts;Building+LockBook+%E2%80%94+analytics+for+small+businesses;M.S.+AI+%40+Illinois+Tech%2C+Dec+2026;QA+Automation+%2B+Full-Stack+%2B+Data" alt="Typing SVG" />
   </a>
 </p>
 
