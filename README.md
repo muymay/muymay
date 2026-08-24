@@ -110,12 +110,13 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=muymay&hide_border=true&background=0D1117&border=0A66C2&ring=0A66C2&fire=0A66C2&currStreakNum=0A66C2&sideNums=0A66C2&currStreakLabel=0A66C2&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muymay&theme=github_dark" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muymay&theme=github_dark" alt="Repos per language" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muymay&theme=github_dark" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muymay&theme=github_dark" alt="Repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muymay&theme=github_dark" alt="Productive time" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muymay&theme=github_dark" alt="Most commit language" />
 </p>
 
 <p align="center">
