@@ -1,34 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0D1117&height=180&section=header&text=Melissa%20Laiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%2FML%20%C2%B7%20QA%20Automation&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0D1117&height=180&section=header&text=Melissa%20Laiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descAlignY=58&descSize=16" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/muymay">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=620&lines=Building+Loka+%E2%80%94+real-time+safety+alerts;Building+LockBook+%E2%80%94+analytics+for+small+businesses;M.S.+AI+%40+Illinois+Tech%2C+Dec+2026;QA+Automation+%2B+Full-Stack+%2B+Data" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Incoming+QA+Engineer+%40+Strata+%C2%B7+Oct+13;Continuous+Improvement+%C2%B7+SDLC+%26+quality;Building+Loka%2C+LockBook%2C+and+badjet;M.S.+AI+%2B+B.S.+CS+%40+Illinois+Tech%2C+Dec+2026" alt="Typing headline" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mumayyy/"><img src="https://img.shields.io/badge/LinkedIn-mumayyy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/mumayyy/"><img src="https://img.shields.io/badge/LeetCode-mumayyy-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://github.com/muymay"><img src="https://img.shields.io/badge/GitHub-muymay-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:melissalaiz07@gmail.com"><img src="https://img.shields.io/badge/Email-melissalaiz07%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 <p align="center">
-  M.S. AI + B.S. CS @ Illinois Tech · GPA 3.6 / 3.39 · Dean's List · Chicago, IL
+  Incoming <strong>QA Engineer</strong> on Strata's Continuous Improvement team · M.S. AI + B.S. CS @ Illinois Tech · GPA 3.6 / 3.45 · Dean's List · Chicago, IL
 </p>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Loka · Lead Engineer</h3>
-      Live safety map for Jakarta–Depok. Community reports + verified sources, real-time alerts.
+      SwiftUI safety map for Jakarta–Depok. Live incidents, bilingual UI, TestFlight QA.
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>LockBook</h3>
-      Analytics for independent restaurants. CSV/XLSX in, revenue / expenses / profit out.
+      Bookkeeping for independent restaurants. CSV/XLSX in, KPIs and Stripe billing out.
+    </td>
+    <td width="33%" valign="top">
+      <h3>badjet · Founder</h3>
+      Local-first iOS/Mac budgeting. Nested money maps, encrypted vault backups.
     </td>
   </tr>
 </table>
@@ -36,7 +41,16 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,postgres,mysql,git,azure,jupyter,vscode,github,cpp,swift,vue&theme=dark&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,swift,react,nextjs,nodejs,postgres,mysql,firebase,git,azure,vscode,github&theme=dark&perline=7" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-0A66C2?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/SwiftUI-0A66C2?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0A66C2?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Claude_Code-0A66C2?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-0A66C2?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Power_BI-0A66C2?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
 </p>
 
 ---
@@ -45,7 +59,8 @@
 
 | Role | Where | What |
 |---|---|---|
-| **SQE Intern** | Strata Decision Technology · Jun–Aug 2026 | 35+ Playwright (TS) cases, 50+ flows rewritten, Claude Code for Azure DevOps, presented to ELT |
+| **QA Engineer** *(incoming)* | Strata Decision Technology · Continuous Improvement · starting Oct 13, 2026 | Full-time on SDLC, quality, and process improvement — converting from SQE intern |
+| **SQE Intern** | Strata Decision Technology · Jun–Aug 2026 | 100+ Playwright (TS) cases for Axiom Higher Ed, Claude Code → Azure DevOps, 70% testing-efficiency gain, presented to ELT |
 | **SWE Intern** | Aubot · Melbourne · Oct–Dec 2025 | Python / SQL / AI exercises for 1,000+ learners in CI-ready pipelines |
 | **SAP Data Analyst Intern** | Woodward MPC · May–Aug 2025 | SAP extracts, Power BI dashboards, less manual reporting |
 
@@ -56,19 +71,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>badjet · Founder</h3>
+      Local-first iOS/Mac budgeting: nested spending maps, CSV export, Sign in with Apple/Google, encrypted Supabase vaults.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Swift-0A66C2?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/SwiftUI-0A66C2?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+      <img src="https://img.shields.io/badge/Supabase-0A66C2?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Loka · Lead Engineer</h3>
+      Public-safety app for Jakarta–Depok. Live map, incident reporting, CCTV overlays, bilingual ID/EN, Firebase + BMKG feeds.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Swift-0A66C2?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/Firebase-0A66C2?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Mapbox-0A66C2?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LockBook</h3>
+      Backend for independent restaurants: CSV/XLSX ingestion, S3, Stripe billing, KPI dashboards, RBAC + 2FA admin console.
+      <br /><br />
+      <img src="https://img.shields.io/badge/TypeScript-0A66C2?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-0A66C2?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0A66C2?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/muymay/playwright-ai-suite">playwright-ai-suite</a></h3>
-      7-test Playwright regression suite + Claude API edge-case suggester.
+      7-test Playwright regression suite + Claude API edge-case suggester from plain-English features.
       <br /><br />
       <img src="https://img.shields.io/badge/TypeScript-0A66C2?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Playwright-0A66C2?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
       <img src="https://img.shields.io/badge/Claude_API-0A66C2?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/muymay/bug-tracker">bug-tracker</a></h3>
-      Issue tracker with root-cause workflows across the defect lifecycle.
-      <br /><br />
-      <img src="https://img.shields.io/badge/JavaScript-0A66C2?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Git-0A66C2?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
   <tr>
@@ -82,27 +116,11 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/LucasFerguson/ChiSky-Flight-Tracker-Frontend">ChiSky Flight Tracker</a></h3>
-      Real-time FlightAware tracking. 4-person team, React / Next.js + PostgreSQL.
+      Real-time FlightAware tracking. 4-person team, React / Next.js + PostgreSQL UPSERTs.
       <br /><br />
       <img src="https://img.shields.io/badge/React-0A66C2?style=flat-square&logo=react&logoColor=white" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-0A66C2?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/PostgreSQL-0A66C2?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/muymay/Nested_Learning_Experiment">Nested Learning Experiment</a></h3>
-      Notebook exploring nested learning approaches.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Jupyter-0A66C2?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/muymay/Topology-Influence-on-Gossip-Learning-Convergence">Gossip Learning Topologies</a></h3>
-      How BA, ER, and WS graphs change gossip-learning convergence.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Jupyter-0A66C2?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/Research-0A66C2?style=flat-square" alt="Research" />
     </td>
   </tr>
 </table>
@@ -110,17 +128,12 @@
 ---
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muymay&theme=github_dark" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muymay&theme=github_dark" alt="Repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muymay&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muymay&theme=tokyonight" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muymay&theme=github_dark" alt="Productive time" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muymay&theme=github_dark" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muymay&bg_color=0d1117&color=0a66c2&line=0a66c2&point=58a6ff&area=true&hide_border=true&area_color=0a66c2" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muymay&bg_color=0d1117&color=58a6ff&line=0a66c2&point=58a6ff&area=true&hide_border=true&area_color=0a66c2" alt="Contribution graph" />
 </p>
 
 <p align="center">
