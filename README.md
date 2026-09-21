@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0D1117&height=180&section=header&text=Melissa%20Laiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0A66C2,50:1F6FEB,100:0D1117&height=200&section=header&text=Melissa%20Laiz&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Incoming%20FTE%20QA%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descAlignY=62&descSize=16" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/muymay">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Incoming+QA+Engineer+%40+Strata+%C2%B7+Oct+13;Continuous+Improvement+%C2%B7+SDLC+%26+quality;Building+Loka%2C+LockBook%2C+and+badjet;M.S.+AI+%2B+B.S.+CS+%40+Illinois+Tech%2C+Dec+2026" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Incoming+FTE+QA+Engineer+%40+Strata;Continuous+Improvement+%C2%B7+SDLC+%26+quality;Building+Loka%2C+LockBook%2C+and+badjet;M.S.+AI+%2B+B.S.+CS+%40+Illinois+Tech%2C+Dec+2026" alt="Typing headline" />
   </a>
 </p>
 
@@ -18,17 +18,17 @@
 ---
 
 <p align="center">
-  Incoming <strong>QA Engineer</strong> on Strata's Continuous Improvement team · M.S. AI + B.S. CS @ Illinois Tech · GPA 3.6 / 3.45 · Dean's List · Chicago, IL
+  Incoming <strong>FTE QA Engineer</strong> on Strata's Continuous Improvement team · M.S. AI + B.S. CS @ Illinois Tech · GPA 3.6 / 3.45 · Dean's List · Chicago, IL
 </p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Loka · Lead Engineer</h3>
+      <h3>Loka · Lead Engineer & Co-Founder</h3>
       SwiftUI safety map for Jakarta–Depok. Live incidents, bilingual UI, TestFlight QA.
     </td>
     <td width="33%" valign="top">
-      <h3>LockBook</h3>
+      <h3>LockBook · Founding Software Engineer</h3>
       Bookkeeping for independent restaurants. CSV/XLSX in, KPIs and Stripe billing out.
     </td>
     <td width="33%" valign="top">
@@ -59,7 +59,7 @@
 
 | Role | Where | What |
 |---|---|---|
-| **QA Engineer** *(incoming)* | Strata Decision Technology · Continuous Improvement · starting Oct 13, 2026 | Full-time on SDLC, quality, and process improvement — converting from SQE intern |
+| **QA Engineer** *(incoming FTE)* | Strata Decision Technology · Continuous Improvement | Full-time on SDLC, quality, and process improvement — converting from SQE intern |
 | **SQE Intern** | Strata Decision Technology · Jun–Aug 2026 | 100+ Playwright (TS) cases for Axiom Higher Ed, Claude Code → Azure DevOps, 70% testing-efficiency gain, presented to ELT |
 | **SWE Intern** | Aubot · Melbourne · Oct–Dec 2025 | Python / SQL / AI exercises for 1,000+ learners in CI-ready pipelines |
 | **SAP Data Analyst Intern** | Woodward MPC · May–Aug 2025 | SAP extracts, Power BI dashboards, less manual reporting |
@@ -79,7 +79,7 @@
       <img src="https://img.shields.io/badge/Supabase-0A66C2?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
     </td>
     <td width="50%" valign="top">
-      <h3>Loka · Lead Engineer</h3>
+      <h3>Loka · Lead Engineer & Co-Founder</h3>
       Public-safety app for Jakarta–Depok. Live map, incident reporting, CCTV overlays, bilingual ID/EN, Firebase + BMKG feeds.
       <br /><br />
       <img src="https://img.shields.io/badge/Swift-0A66C2?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>LockBook</h3>
+      <h3>LockBook · Founding Software Engineer</h3>
       Backend for independent restaurants: CSV/XLSX ingestion, S3, Stripe billing, KPI dashboards, RBAC + 2FA admin console.
       <br /><br />
       <img src="https://img.shields.io/badge/TypeScript-0A66C2?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -144,5 +144,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0D1117,50:1F6FEB,100:0A66C2&height=120&section=footer" width="100%" />
 </p>
