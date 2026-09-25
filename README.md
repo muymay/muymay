@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0A66C2,50:1F6FEB,100:0D1117&height=200&section=header&text=Melissa%20Laiz&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Incoming%20FTE%20QA%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descAlignY=62&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A66C2,100:0D1117&height=200&section=header&text=Melissa%20Laiz&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Incoming%20FTE%20QA%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descAlignY=55&descSize=16" width="100%" />
 </p>
 
 <p align="center">
@@ -128,11 +128,6 @@
 ---
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muymay&theme=tokyonight" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muymay&theme=tokyonight" alt="Top languages by commit" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muymay&bg_color=0d1117&color=58a6ff&line=0a66c2&point=58a6ff&area=true&hide_border=true&area_color=0a66c2" alt="Contribution graph" />
 </p>
 
@@ -144,5 +139,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0D1117,50:1F6FEB,100:0A66C2&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:0A66C2&height=120&section=footer&reversal=true" width="100%" />
 </p>
