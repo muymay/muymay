@@ -2,7 +2,7 @@
   <img src="./assets/header.png" width="100%" alt="Melissa Laiz" />
 </p>
 
-<h1 align="center">『 MELISSA LAIZ 』</h1>
+<h1 align="center">MELISSA LAIZ</h1>
 
 <p align="center">
   <a href="https://github.com/muymay">
