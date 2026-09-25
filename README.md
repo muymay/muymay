@@ -2,7 +2,9 @@
   <img src="./assets/header.png" width="100%" alt="Melissa Laiz" />
 </p>
 
-<h1 align="center">Melissa Laiz</h1>
+<h1 align="center">
+  <img src="./assets/name.png" width="520" alt="Melissa Laiz" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/muymay">
