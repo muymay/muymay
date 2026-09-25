@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A66C2,100:0D1117&height=200&section=header&text=Melissa%20Laiz&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Incoming%20FTE%20QA%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descAlignY=55&descSize=16" width="100%" />
+  <img src="./assets/header.png" width="100%" alt="Melissa Laiz" />
 </p>
+
+<h1 align="center">Melissa Laiz</h1>
 
 <p align="center">
   <a href="https://github.com/muymay">
@@ -139,5 +141,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:0A66C2&height=120&section=footer&reversal=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=120&section=footer" width="100%" />
 </p>
